@@ -1,5 +1,3 @@
-This repo is created to encourage people to contribute to open source project and using git.
-
 ## Steps:
 1.  Register a Github account and sign up for Hacktoberfest 2018.
     [Hacktoberfest 2018](https://hacktoberfest.digitalocean.com)
