@@ -4,21 +4,22 @@ This repo is created to encourage people to contribute to open source project an
 1.  Register a Github account and sign up for Hacktoberfest 2018.
     [Hacktoberfest 2018](https://hacktoberfest.digitalocean.com)
 
-2.  Git clone this repository.
-    `git clone https://github.com/3DC/feedback_2018.git`
+2.  Fork this repository.
 
-3.  Create new branch.
+3.  Git clone the forked repo to your local computer.
+    `git clone your_forked_repo_url`
+ 
+4.  Create new branch.
     `git checkout -b your_branch_name`
 
-4.  Add your feedback inside `feedback.txt` file.
+5.  Add your feedback inside `feedback.txt` file.
 
-5.  Add and commit your changes.
+6.  Add and commit your changes.
     `git commit -am "your commit message"`
 
-6.  Push your branch to the Github.
+7.  Push your branch to the Github.
     `git push -u origin your_branch_name`
 
-7.  Go to our club Github and submit your Pull-Request.
-    [3DC Feedback](https://github.com/3DC/feedback_2018)
+8.  Go to your Github account and submit your Pull-Request through your forked repo.
 
-8.  Your Hacktoberfest PR count will increase after the admin approve your PR. 
+9.  Your Hacktoberfest PR count will increase after the admin approve your PR. 
